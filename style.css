@@ -1,0 +1,18 @@
+/*
+h1 {
+    color: aqua;
+    background-color: blue;
+    text-align: center;
+    border: 20px black solid;
+    margin-bottom: 10px;
+}
+*/
+h1 {
+    color: cornflowerblue;
+} 
+.title {
+    background-color: aqua;
+}
+#important {
+    color: pink;
+}
